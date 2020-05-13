@@ -2,7 +2,8 @@
   "name": "TestAPI-indu-may13-1",
   "version": "1.0.0",
   "dependencies": {
-    "swagger-client": "3.8.21"
+    "swagger-client": "3.8.21",
+    "test": "0.6.0"
   },
   "devDependencies": {}
 }
